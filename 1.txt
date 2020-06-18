@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 aaaaa
 bbbb
 eeeeeeeee
@@ -8,3 +9,7 @@ djdkdjk
 333333333
 4444444444
 反对党对
+=======
+hello Mr shui
+	hahahaha
+>>>>>>> 9d8ed9b97853e3aad82c146768c27752a27eb708
